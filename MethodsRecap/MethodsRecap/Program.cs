@@ -26,6 +26,30 @@ namespace MethodsRecap
             Favorite Animal: Walrus
             Favorite Band: The Beatles
             Extra points - turn the answers into a fun short story!
+
+
+
+
+            2:Write different methods that use each math operator, but allows you to plug in different integers. 
+                Calling the different methods would look like: 
+                Sum(2,4) would return 6
+                Multiply(10,2) would return 20
+
+
+                For Example:
+   
+
+
+
+                Challenge mode - using the params keyword:
+                Change the functions to use the params keyword to support a range of arguments.
+                Sum(2,4) would return 6
+                Sum(2,4,6) would return 12.
+                Sum(1,1,1,1,1) would return 5. 
+
+                This way we could plug in multiple different values, and the method we write will still calculate it correctly, we could add, subtract, etc - as many values as we want
+
+
              */
 
 
