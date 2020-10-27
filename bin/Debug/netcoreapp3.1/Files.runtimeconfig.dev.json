@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Virtudazo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Virtudazo\\.nuget\\packages"
+    ]
+  }
+}
