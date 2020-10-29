@@ -75,6 +75,10 @@ namespace Operators_review
             int ab = 2;
             int cb = 2;
             int resultOperator = ab += cb;
+<<<<<<< HEAD
+=======
+            Console.WriteLine($" AB result {ab}  , CB result {cb}");
+>>>>>>> reviewbranchonly
             Console.WriteLine($"{resultOperator}");
             
 
