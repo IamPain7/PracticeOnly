@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\bin\Debug\netcoreapp3.1\IfElsePractice.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\IfElsePractice\IfElsePractice\obj\Debug\netcoreapp3.1\IfElsePractice.genruntimeconfig.cache
