@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TinaryPractice/1.0.0": {
+        "runtime": {
+          "TinaryPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TinaryPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

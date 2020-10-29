@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\bin\Debug\netcoreapp3.1\TinaryPractice.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\bin\Debug\netcoreapp3.1\TinaryPractice.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\bin\Debug\netcoreapp3.1\TinaryPractice.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\bin\Debug\netcoreapp3.1\TinaryPractice.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\bin\Debug\netcoreapp3.1\TinaryPractice.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\bin\Debug\netcoreapp3.1\TinaryPractice.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\TinaryPractice\TinaryPractice\obj\Debug\netcoreapp3.1\TinaryPractice.genruntimeconfig.cache

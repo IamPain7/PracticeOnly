@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\bin\Debug\netcoreapp3.1\SwitchPractice.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\bin\Debug\netcoreapp3.1\SwitchPractice.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\bin\Debug\netcoreapp3.1\SwitchPractice.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\bin\Debug\netcoreapp3.1\SwitchPractice.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\bin\Debug\netcoreapp3.1\SwitchPractice.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\bin\Debug\netcoreapp3.1\SwitchPractice.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\SwitchPractice\SwitchPractice\obj\Debug\netcoreapp3.1\SwitchPractice.genruntimeconfig.cache

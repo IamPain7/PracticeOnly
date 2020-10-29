@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\bin\Debug\netcoreapp3.1\ForloopsPractice1.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\bin\Debug\netcoreapp3.1\ForloopsPractice1.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\bin\Debug\netcoreapp3.1\ForloopsPractice1.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\bin\Debug\netcoreapp3.1\ForloopsPractice1.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\bin\Debug\netcoreapp3.1\ForloopsPractice1.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\bin\Debug\netcoreapp3.1\ForloopsPractice1.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\ForloopsPractice1\ForloopsPractice1\obj\Debug\netcoreapp3.1\ForloopsPractice1.genruntimeconfig.cache
