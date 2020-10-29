@@ -76,6 +76,7 @@ namespace Operators_review
             int cb = 2;
             int resultOperator = ab += cb;
             Console.WriteLine($" AB result {ab}  , CB result {cb}");
+            Console.WriteLine($"{resultOperator}");
             
 
             /* type of Operations 
