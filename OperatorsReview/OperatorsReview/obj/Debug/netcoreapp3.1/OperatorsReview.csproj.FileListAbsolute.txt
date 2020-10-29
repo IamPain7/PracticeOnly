@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\bin\Debug\netcoreapp3.1\OperatorsReview.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\bin\Debug\netcoreapp3.1\OperatorsReview.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\bin\Debug\netcoreapp3.1\OperatorsReview.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\bin\Debug\netcoreapp3.1\OperatorsReview.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\bin\Debug\netcoreapp3.1\OperatorsReview.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\bin\Debug\netcoreapp3.1\OperatorsReview.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\PracticeOnly\OperatorsReview\OperatorsReview\obj\Debug\netcoreapp3.1\OperatorsReview.genruntimeconfig.cache
