@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Virtudazo\\PracticeOnly\\src\\Files\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj": {}
+    "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\PracticeOnly\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Virtudazo\\PracticeOnly\\src\\Files\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj": {
+    "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\PracticeOnly\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Virtudazo\\PracticeOnly\\src\\Files\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj",
+        "projectUniqueName": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\PracticeOnly\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj",
         "projectName": "MethodsRecap",
-        "projectPath": "C:\\Users\\Virtudazo\\PracticeOnly\\src\\Files\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj",
-        "packagesPath": "C:\\Users\\Virtudazo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Virtudazo\\PracticeOnly\\src\\Files\\MethodsRecap\\MethodsRecap\\obj\\",
+        "projectPath": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\PracticeOnly\\MethodsRecap\\MethodsRecap\\MethodsRecap.csproj",
+        "packagesPath": "C:\\Users\\IamPain7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\PracticeOnly\\MethodsRecap\\MethodsRecap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Virtudazo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IamPain7\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
